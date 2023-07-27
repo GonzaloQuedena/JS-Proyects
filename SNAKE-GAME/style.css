@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+  text-align: center;
+}
+
+#board {
+    border: 3px solid;
+}
